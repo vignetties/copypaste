@@ -1,5 +1,7 @@
-Hi Lukas,
+I made some changes in sectrans helm.
+Because previously the repo name to rsync had been hardcoded in the docker file. 
+I changed it to helm values, so for each stage, we can now give it in value.YAML file.
 
-I saw you fixed the group business service, it processed the test files to result directory.
-
-what's next? 
+And one more thing, 
+To do the group business contract testing again shall I ping Franz or do we need to arrange a meeting as we did before?  
+when we are going to do this?

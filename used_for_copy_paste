@@ -6,6 +6,16 @@ And one more thing,
 To do the group business contract testing again shall I ping Franz or do we need to arrange a meeting as we did before?  
 when we are going to do this?
 ______
+I deployed the asif nrs service in the ACM cloud and tested with a dummy test file. NRS  fetched and processed it. sectran can also sync the file to sftp server.
+
+I checked with Bhusan for TEST and QA, He told me we can ignore the test stage and make the QA ready.
+In QA starting next week Development for R23B will start.
+
+And I thought of asking Franz to do a test on ASIF NRS with some real data. Like we did before on group business.
+
+
+exclude it mnt and prod
+________________
 
 
 Hi Lukas,

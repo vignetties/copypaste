@@ -23,3 +23,13 @@ Hi Lukas,
 I checked with Franz, He had tested and said "looks good i think".
 
 In the last test error response was not uploaded to the result folder, this time it uploaded correctly.
+
+_________________________________
+/* Hello World in Groovy */
+println("Hello world\n")
+
+a = "releases/R7"
+
+if ( !(a).startsWith('releases/R23') ) {
+  println("$a")  
+}

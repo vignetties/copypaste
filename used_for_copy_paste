@@ -1,7 +1,10 @@
+HI sdfadf
 
-Meeting number (access code): 1281 60 1861 
+I am from AzP Devops team.
 
-Meeting password: eyPat9A5Tf7 
+We are migrating awc claim upload service to ACM cloud. I have created a test stage in the ACM cloud. 
+Could you please help us to test this AWC claim upload service by creating some test files in sectrans sft server. 
+So that we can confirm test stage in ACM is working.
 
 I made some changes in sectrans helm.
 Because previously the repo name to rsync had been hardcoded in the docker file. 

@@ -1,3 +1,8 @@
+
+Meeting number (access code): 1281 60 1861 
+
+Meeting password: eyPat9A5Tf7 
+
 I made some changes in sectrans helm.
 Because previously the repo name to rsync had been hardcoded in the docker file. 
 I changed it to helm values, so for each stage, we can now give it in value.YAML file.

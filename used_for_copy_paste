@@ -58,3 +58,7 @@ Good morning, I am not feeling well today as well I am taking half day leave.
 I am open to new tasks. If you have something in mind please let me know or I  pick myself.
 
 
++++++++++++++++
+EphemeralStorageReserved and EphemeralStorageUtilized metrics 
+
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-metrics-ECS.html
